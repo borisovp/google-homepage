@@ -1,2 +1,2 @@
 # google-homepage
-First repository
+http://codenamecrud.ru/basics-of-web-development/project-html-css
