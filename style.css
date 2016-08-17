@@ -1,0 +1,82 @@
+img {
+    margin-left: 265px;
+    margin-top: 50px;
+    padding: 5px;
+    }
+
+    ul.hr {
+    margin: 0;
+    padding: 60px;
+    }
+    ul  a {
+    text-decoration: none;
+    color: black;
+    }
+    ul.hr li {
+    display: inline;
+    margin-right: 10px;
+    margin-left: 20px;
+    border: 1px solid #000;
+    font-family: Tahoma, arial, sans-serif;
+    padding: 3px;
+    border-radius: 4px;
+    }
+
+    input {
+    width: 480px;
+    height: 35px;
+    border: 1px solid #BBB;
+    font: 14px Arial, Tahoma, sans-serif;
+    text-align: 2px;
+    line-height: 25px;
+    margin-top: 23px;
+    margin-left: 265px;
+    }
+
+    .hr li:hover {
+    background-color: #555;
+    border: 1px solid grey;
+    }
+    .hr a:hover {
+    color: white;
+    }
+
+    .upname a:hover {
+    text-decoration: underline;
+    }
+
+    .upname ul li {
+    list-style-type: none;
+    margin: 10px;
+    padding: 2px;
+    display: inline;
+    }
+    .upname {
+    margin-left:660px;
+    margin-top: 25px;
+    font: 14px Arial, Tahoma, sans-serif;
+    }
+    .footer li{
+    list-style-type: none;
+    margin: 12px;
+    display: inline;
+    vertical-align: middle;
+    }
+    .footer a {
+    text-decoration: none;
+    color: #555;
+    }
+    .footer {
+    background: lightgrey;
+    position: relative;
+    width: 100%;
+    height: 30px;
+    border: 1px solid #BBB;
+    margin-top: 70px;
+    padding-top: 12px;
+
+    font: 14px Arial, Tahoma, sans-serif;
+    }
+    .footer a:hover {
+    text-decoration: underline;
+    }
